@@ -1,6 +1,6 @@
 Description :
 =============
-I just shared my works, which I worked as learning path and practiced some C programming such as array, pointers, preprocessor, string, bit operations, data scope, dynamic memory, functions, structures, command line arguments, get input and display the output and variable arguments. In Data structures, some C Programs with Design and implementation of ordered and unordered Single Linked list, Double Linked List, Queue and Stack. 
+I just shared my works, which I worked as learning path and practiced some C programming such as C program trace flow at runtime. 
 
 Purpose :
 =========
